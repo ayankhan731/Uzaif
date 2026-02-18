@@ -1,0 +1,8 @@
+{
+  "name": "OmniGemini ai",
+  "description": "A comprehensive AI workspace featuring General Chat, Code Generation, Creative Writing, Live Voice, Image, Video, and Audio Tools.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
